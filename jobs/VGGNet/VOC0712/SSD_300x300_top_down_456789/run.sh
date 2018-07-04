@@ -1,0 +1,2 @@
+./VGG_VOC0712_SSD_300x300_top_down_456789_1st_stage.sh
+./VGG_VOC0712_SSD_300x300_top_down_456789_2nd_stage.sh
